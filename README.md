@@ -8,7 +8,7 @@ Mask2Former-style transformer trained on the EPIC-KITCHENS VISOR dataset.
 
 ### 📄 A detailed report covering the experiment, model architecture, dataset, training procedure, results and limitations is available in [`Task_Report.pdf`](./Task_Report.pdf).
 
-### 🎬 Output videos with hand mask overlays and predicted action labels for the provided test videos are in the [`results/`](./results) directory.
+The result videos of inference on the provided test videos are available at the following link:: https://drive.google.com/drive/folders/1_nUQwkzGl6OMllCiqhfOVAzq_ta4Z5Mj?usp=sharing
 
 ---
 
