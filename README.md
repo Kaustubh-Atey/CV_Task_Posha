@@ -36,9 +36,6 @@ model context about both *what the hand looks like* and *what it is interacting 
 ├── losses.py          # DiceLoss, SegmentationLoss, compute_total_loss, metrics, optimizer
 ├── train.py           # Training and validation loops, main entry point
 ├── inference.py       # Video inference — overlays hand mask and action label
-├── inference_seg_only.py  # Video inference — hand mask overlay only, no action label
-├── evaluate.py        # Loads checkpoint, runs classification report + confusion matrix
-└── check_contact_stats.py  # Utility to analyse VISOR contact annotation statistics
 ```
 
 ### Script descriptions
